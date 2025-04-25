@@ -1,0 +1,26 @@
+.cell {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ccc;
+
+  }
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  .controls label {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+  }
+  .controls button {
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+
+
+  .app { padding: 16px; }
+.grid { display: flex; flex-direction: column; gap: 2px; }
+.grid-row { display: flex; gap: 2px; }
