@@ -10,7 +10,7 @@ An interactive tool to visualize how classic pathfinding algorithms explore a gr
 - **Four algorithms**: Depth-First Search (DFS), Breadth-First Search (BFS), Dijkstra’s, and A*.   
 - **Animation controls**: speed slider, Start and Stop buttons, and “Random Walls” generator with guaranteed connectivity.   
 - **Color-coded states**: walls, visited nodes, final path, open/closed sets, start/end.   
-- **Responsive design** using CSS Grid and Tailwind CSS for layout and styling.   
+- **Responsive design** using CSS Grid and Tailwind CSS for layout and styling.    
 
 ---
 
